@@ -1,0 +1,505 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Versal v10.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-05-01 19:19+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ versal
+#: 404.php:20 archive.php:49 index.php:47
+msgid "Nothing found here"
+msgstr "Здесь ничего не найдено!"
+
+# @ versal
+#: 404.php:22 archive.php:51 index.php:49
+msgid "Perhaps You will find something interesting from these lists..."
+msgstr "Возможно, вы найдете что-то интересное из этих списков..."
+
+# @ versal
+#. translators: %s: post title
+#: comments.php:18
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Один комментарий для &ldquo;%s&rdquo;"
+
+# @ versal
+#. translators: 1: number of comments, 2: post title
+#: comments.php:23
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Комментариев для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Комментариев для &ldquo;%2$s&rdquo;"
+
+# @ versal
+#: comments.php:45
+msgid "Older Comments"
+msgstr "Старые  комментарии"
+
+# @ versal
+#: comments.php:46
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ versal
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ versal
+#: footer.php:44
+msgid "Scroll To Top"
+msgstr "Наверх"
+
+# @ versal
+#: functions/custom-controls.php:14
+msgid "Select"
+msgstr "Выбрать"
+
+# @ versal
+#: functions/customizer.php:29
+msgid "Primary (Body) Options"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:32
+msgid "Allows you to customize some primary settings for theme."
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:51
+msgid "Container (ghost) Background Color"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:70
+msgid "Border Color"
+msgstr "Цвет границы"
+
+# @ versal
+#: functions/customizer.php:89
+msgid "Accent Color: Background"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:108
+msgid "Accent Color: Text"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:128
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+# @ versal
+#: functions/customizer.php:147 functions/customizer.php:186
+msgid "Link Color: Hover"
+msgstr "Цвет Ссылки при наведении"
+
+# @ versal
+#: functions/customizer.php:166
+msgid "Entry Link Color"
+msgstr "Цвет ссылки"
+
+# @ versal
+#: functions/customizer.php:198
+msgid "Header Options"
+msgstr "Параметры шапки"
+
+# @ versal
+#: functions/customizer.php:216
+msgid "Header Background Color"
+msgstr "Цвет фона шапки"
+
+# @ versal
+#: functions/customizer.php:235
+msgid "Header Navigation Color"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:254
+msgid "Header Link Color"
+msgstr "Цвет Ссылок в Шапке"
+
+# @ versal
+#: functions/customizer.php:273
+msgid "Header Text Color"
+msgstr "Цвет текста заголовка"
+
+# @ versal
+#: functions/customizer.php:293
+msgid "Header Accent Color: Background"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:312
+msgid "Header Accent Color: Text"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:331
+msgid "Footer Options"
+msgstr "Настройки подвала"
+
+# @ versal
+#: functions/customizer.php:349
+msgid "Footer Background Color"
+msgstr "Фоновый цвет футера"
+
+# @ versal
+#: functions/customizer.php:368
+msgid "Footer Link Color"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:387
+msgid "Footer Text Color"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:406
+msgid "Footer Border Color"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:423
+msgid "Social Networks"
+msgstr "Социальные сети"
+
+# @ versal
+#: functions/customizer.php:425
+msgid "Enter full URLs (http:// including)"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:437
+msgid "Facebook URL"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:450
+msgid "Twitter URL"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:463
+msgid "Instagram URL"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:476
+msgid "Pinterest URL"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:489
+msgid "LinkedIn URL"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:502
+msgid "Google + URL"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:515
+msgid "You Tube URL"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:536
+msgid "Mosaic Featured Section"
+msgstr ""
+
+# @ versal
+#: functions/customizer.php:552
+msgid "Category"
+msgstr "Кaтегория"
+
+# @ versal
+#: functions/gopro/class-customize.php:76
+msgid "Versal Pro"
+msgstr " "
+
+# @ versal
+#: functions/gopro/class-customize.php:77
+msgid "Go Pro"
+msgstr " "
+
+# @ versal
+#: functions/widgets/widget-featured-small.php:12
+#: functions/widgets/widget-featured.php:12
+msgid "Featured posts widget."
+msgstr "Рекомендуемые записи (Виджет)*"
+
+# @ versal
+#: functions/widgets/widget-featured-small.php:13
+msgid "Vergo - Featured (Small posts)"
+msgstr ""
+
+# @ versal
+#: functions/widgets/widget-featured-small.php:82
+#: functions/widgets/widget-featured.php:95
+#: functions/widgets/widget-social.php:36
+msgid "Title:"
+msgstr "Название:"
+
+# @ versal
+#: functions/widgets/widget-featured-small.php:87
+#: functions/widgets/widget-featured.php:100
+msgid "Filter by Category:"
+msgstr "Фильтровать по категории:"
+
+# @ versal
+#: functions/widgets/widget-featured-small.php:89
+#: functions/widgets/widget-featured.php:102
+msgid "all categories"
+msgstr "все категории"
+
+# @ versal
+#: functions/widgets/widget-featured-small.php:98
+#: functions/widgets/widget-featured.php:111
+msgid "Number of posts:"
+msgstr "Число записей:"
+
+# @ versal
+#: functions/widgets/widget-featured.php:13
+msgid "Vergo - Featured"
+msgstr ""
+
+# @ versal
+#: functions/widgets/widget-social.php:8
+msgid "This is Social Networks widget."
+msgstr ""
+
+# @ versal
+#: functions/widgets/widget-social.php:9
+msgid "Vergo - Social Networks"
+msgstr ""
+
+# @ versal
+#: functions.php:41
+msgid "Main Menu"
+msgstr "Главное меню"
+
+# @ versal
+#: functions.php:42
+msgid "Footer Menu"
+msgstr "Меню в подвале"
+
+# @ versal
+#: functions.php:69
+msgid "Sidebar"
+msgstr ""
+
+# @ versal
+#: functions.php:69 functions.php:71
+msgid "Sidebar widget section (displayed on posts / blog)"
+msgstr ""
+
+# @ versal
+#: functions.php:71
+msgid "Sidebar (Sticky)"
+msgstr ""
+
+# @ versal
+#: functions.php:75
+msgid "Footer 1"
+msgstr ""
+
+# @ versal
+#: functions.php:75
+msgid "Widget section in footer - left"
+msgstr ""
+
+# @ versal
+#: functions.php:76
+msgid "Footer 2"
+msgstr ""
+
+# @ versal
+#: functions.php:76
+msgid "Widget section in footer - center/left"
+msgstr ""
+
+# @ versal
+#: functions.php:77
+msgid "Footer 3"
+msgstr ""
+
+# @ versal
+#: functions.php:77
+msgid "Widget section in footer - center/right"
+msgstr ""
+
+# @ versal
+#: functions.php:78
+msgid "Footer 4"
+msgstr ""
+
+# @ versal
+#: functions.php:78
+msgid "Widget section in footer - right"
+msgstr ""
+
+# @ versal
+#: functions.php:161
+msgid "Audio"
+msgstr ""
+
+# @ versal
+#: functions.php:162
+msgid "Gallery"
+msgstr "Галерея"
+
+# @ versal
+#: functions.php:163
+msgid "Image"
+msgstr "Изображение"
+
+# @ versal
+#: functions.php:164
+msgid "Link"
+msgstr ""
+
+# @ versal
+#: functions.php:165
+msgid "Quote"
+msgstr ""
+
+# @ versal
+#: functions.php:166
+msgid "Video"
+msgstr ""
+
+# @ versal
+#: functions.php:241
+msgid "by: "
+msgstr " "
+
+# @ versal
+#: functions.php:266
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ versal
+#: inc/authorinfo.php:7
+msgid "About the Author"
+msgstr "Об авторе"
+
+# @ versal
+#: inc/nextprev.php:21
+msgid "Previous Story"
+msgstr "Предыдущая история"
+
+# @ versal
+#: inc/nextprev.php:41
+msgid "Next Story"
+msgstr "Следующая история"
+
+# @ versal
+#: inc/social.php:10
+msgid "Facebook"
+msgstr ""
+
+# @ versal
+#: inc/social.php:15
+msgid "Twitter"
+msgstr ""
+
+# @ versal
+#: inc/social.php:20
+msgid "Google+"
+msgstr ""
+
+# @ versal
+#: inc/social.php:25
+msgid "Instagram"
+msgstr ""
+
+# @ versal
+#: inc/social.php:30
+msgid "Pinterest"
+msgstr ""
+
+# @ versal
+#: inc/social.php:35
+msgid "You Tube"
+msgstr ""
+
+# @ versal
+#: inc/social.php:40
+msgid "LinkedIn"
+msgstr ""
+
+# @ versal
+#: page.php:26 template-fullwidth.php:22
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ versal
+#: page.php:41 single.php:53
+msgid "Sorry, no posts matched your criteria"
+msgstr "Извините, по вашим критериям не найдено ни одной записи"
+
+# @ versal
+#: search.php:13
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+# @ versal
+#: search.php:53
+msgid "Sorry nothing found here"
+msgstr "Извините. Ничего не найдено"
+
+# @ versal
+#: search.php:55
+msgid "Take a moment and do a search below"
+msgstr "Найдите минутку и выполните поиск ниже!"
+
+# @ versal
+#: search.php:59
+msgid "or perhaps you will find something interesting from this list..."
+msgstr "или возможно вы найдете что-то интересное из этого списка..."
+
+# @ versal
+#: searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск для: "
+
+# @ versal
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+# @ versal
+#: single-content.php:43
+msgid "Next"
+msgstr "Вперед"
+
+# @ versal
+#: single-content.php:44
+msgid "Previous"
+msgstr "Назад"
+
+# @ versal
+#: single-info.php:13
+msgid "Last modified"
+msgstr "Последнее изменение"
